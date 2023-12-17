@@ -1,4 +1,0 @@
-pip install pygame
-apt-get install mpv
-
-não esquecer de configurar a resolução da tela corretamente.
